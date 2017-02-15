@@ -1,1 +1,1 @@
-web: mvn -Dserver.port=$PORT -jar target/ip2.team5years.jar
+web: java -Dserver.port=$PORT -jar target/revCan.jar
